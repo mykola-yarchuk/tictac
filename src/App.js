@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>
-        okey, thats a start
+        branch for developing
       </h1>
     </div>
   );
