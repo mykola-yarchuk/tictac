@@ -48,3 +48,11 @@ ol, ul {
 .game-info {
   margin-left: 20px;
 }
+
+.active_move {
+  background-color: yellow;
+}
+
+.painted-square {
+  background: #0f0;
+}
